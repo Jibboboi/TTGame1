@@ -1,0 +1,10 @@
+Tabellen:
+
+PLAYER ID, Name, Passwort, punkte totele win lose, säze win loose, mmr (maßstab festlegen),(Schiedsrichter)
+CASUAL MATCHES ID_Player1, ID_Player2, PunkteP1,PunkteP2,SätzeP1,SätzeP2,Datum,(Schiedsrichter), Ergebnis
+RANKED ID_Player1, ID_Player2, PunkteP1,PunkteP2,SätzeP1,SätzeP2,Datum,MMRDIffP1,MMRDIffP2, (Schiedsrichter), Ergebnis
+TUNIR
+
+
+TO DO :
+Marco SQL/PHP tabellen editieren
